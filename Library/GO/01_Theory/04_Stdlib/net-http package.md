@@ -1,54 +1,64 @@
 ---
 type: theory
 area: theory
-status: draft
+status: active
 created: 2026-06-06
-updated:
+updated: 2026-06-09
 tags:
   - area/theory
   - go
   - stdlib
 ---
 
-# net-http package
+# net/http package
 
 ## Кратко
 
-Короткое объяснение темы своими словами.
+`net/http` — стандартный пакет Go для HTTP-серверов и HTTP-клиентов.
 
 ## Зачем нужно
 
-- 
-- 
+- запускать REST API;
+- писать handlers;
+- принимать HTTP-запросы;
+- возвращать HTTP-ответы;
+- обращаться к внешним API.
 
-## Основная идея
+## Основные серверные элементы
 
-Описание без привязки к конкретной лабораторной.
+- `http.Handler`;
+- `http.HandlerFunc`;
+- `http.ResponseWriter`;
+- `*http.Request`;
+- `http.Server`;
+- `http.ServeMux`.
 
-## Правила / важные детали
+## Основные клиентские элементы
 
-- 
-- 
-- 
+- `http.Client`;
+- `http.NewRequestWithContext`;
+- `http.Response`;
+- `http.Transport`.
 
-## Мини-пример
+## Правила
 
-```go
-
-```
+- На server side проверяй ошибку запуска сервера.
+- На client side задавай timeout.
+- Закрывай `resp.Body` после успешного ответа клиента.
+- Для JSON выставляй `Content-Type`.
+- Для production-сервера настраивай timeouts.
 
 ## Типичные ошибки
 
 | Ошибка | Почему возникает | Как исправить |
 |---|---|---|
-|  |  |  |
-
-## Где применяется на практике
-
-- [[Labs Index]]
-- [[Development Cases Index]]
+| Client без timeout | Запрос может зависнуть | Настроить `http.Client{Timeout: ...}` |
+| Не закрыт body | Утечка ресурсов | `defer resp.Body.Close()` |
+| Handler делает всё | Смешаны слои | Вынести service/repository |
 
 ## Связанные темы
 
-- [[]]
-- [[]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/HTTP_Server]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/Handlers]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/HTTP_Client]]
+

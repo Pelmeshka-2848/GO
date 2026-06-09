@@ -21,16 +21,16 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/010_Production_Ready_API/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/011_Production_Ready_API/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/08_Production/Config_Env]]
-- [[01_Theory/08_Production/Logging]]
-- [[01_Theory/08_Production/Graceful_Shutdown]]
-- [[01_Theory/08_Production/Healthcheck]]
-- [[01_Theory/06_Advanced_Go/Pprof]]
-- [[01_Theory/06_Advanced_Go/Staticcheck]]
+- [[01_Theory/09_Production/Config_Env]]
+- [[01_Theory/09_Production/Logging]]
+- [[01_Theory/09_Production/Graceful_Shutdown]]
+- [[01_Theory/09_Production/Healthcheck]]
+- [[01_Theory/11_Advanced_Go/Pprof]]
+- [[01_Theory/11_Advanced_Go/Staticcheck]]
 
 ## Источники
 
@@ -48,3 +48,5 @@
 ## Статус
 
 Не начато
+
+

@@ -17,7 +17,7 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/000_Go_Environment_Setup/00_Lab Card]]
+- [[02_Practice/01_Labs/00_Foundation/000_Go_Environment_Setup/00_Lab Card]]
 
 ## Теоретические заметки
 

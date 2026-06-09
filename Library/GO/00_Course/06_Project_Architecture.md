@@ -19,14 +19,14 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/005_Clean_REST_API_Project/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/005_Clean_REST_API_Project/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/07_Architecture/Layered_Architecture]]
-- [[01_Theory/07_Architecture/Clean_Architecture]]
-- [[01_Theory/07_Architecture/DTO]]
-- [[01_Theory/07_Architecture/Dependency_Injection]]
+- [[01_Theory/08_Architecture/Layered_Architecture]]
+- [[01_Theory/08_Architecture/Clean_Architecture]]
+- [[01_Theory/08_Architecture/DTO]]
+- [[01_Theory/08_Architecture/Dependency_Injection]]
 
 ## Источники
 
@@ -44,3 +44,4 @@
 ## Статус
 
 Не начато
+

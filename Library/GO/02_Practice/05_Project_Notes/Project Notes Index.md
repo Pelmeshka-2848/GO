@@ -1,12 +1,32 @@
----
-type: index
-area: practice
-status: active
-tags:
-  - area/practice
----
-
 # Project Notes Index
 
-- [[Project - Go REST API]]
-- [[Project - Microservice Demo]]
+Индекс заметок по собственным проектам. Здесь фиксируются не лабораторные шаги, а проектные решения, архитектура, ограничения и выводы.
+
+## Проекты
+
+- [[02_Practice/05_Project_Notes/Project - Go REST API|Project - Go REST API]]
+- [[02_Practice/05_Project_Notes/Project - Microservice Demo|Project - Microservice Demo]]
+
+## Что сюда писать
+
+- цель проекта;
+- архитектурные решения;
+- структуру пакетов;
+- внешние зависимости;
+- API-контракты;
+- решения по базе данных;
+- ограничения и технический долг;
+- выводы после реализации.
+
+## Что не писать
+
+- сырые заметки без структуры;
+- временные команды без контекста;
+- полный дневник ошибок;
+- материалы, которые должны лежать в лабораторной.
+
+## Связанные разделы
+
+- [[02_Practice/01_Labs/00_Labs_Index|Лабораторные]]
+- [[02_Practice/02_Development_Cases/Development Cases Index|Кейсы разработки]]
+- [[02_Practice/03_Debug_Diary/00_Debug_Diary_Index|Дневник ошибок]]

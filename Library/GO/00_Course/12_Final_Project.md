@@ -20,14 +20,14 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/012_Final_TaskFlow_Backend/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/013_Final_TaskFlow_Backend/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/03_Backend/REST_API]]
-- [[01_Theory/04_Databases/PostgreSQL]]
-- [[01_Theory/07_Architecture/Clean_Architecture]]
-- [[01_Theory/08_Production/JWT]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/REST_API]]
+- [[01_Theory/06_Databases/PostgreSQL]]
+- [[01_Theory/08_Architecture/Clean_Architecture]]
+- [[01_Theory/09_Production/JWT]]
 
 ## Источники
 
@@ -45,3 +45,4 @@
 ## Статус
 
 Не начато
+

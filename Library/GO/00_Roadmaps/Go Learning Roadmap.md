@@ -11,43 +11,52 @@ tags:
 
 ## 1. Syntax
 
-- [ ] [[Variables and Types]]
-- [ ] [[Functions]]
-- [ ] [[Pointers]]
-- [ ] [[Structs]]
-- [ ] [[Methods]]
-- [ ] [[Interfaces]]
-- [ ] [[Errors]]
-- [ ] [[Generics]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Variables and Types|Variables and Types]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Functions|Functions]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Pointers|Pointers]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Structs|Structs]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Methods|Methods]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Interfaces|Interfaces]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Errors|Errors]]
+- [ ] [[01_Theory/99_Aliases/01_Syntax/Generics|Generics]]
 
 ## 2. Runtime and concurrency
 
-- [ ] [[Goroutines]]
-- [ ] [[Channels]]
-- [ ] [[Context]]
-- [ ] [[Select]]
-- [ ] [[Mutex and Race Conditions]]
+- [ ] [[01_Theory/07_Concurrency/Goroutines|Goroutines]]
+- [ ] [[01_Theory/07_Concurrency/Channels|Channels]]
+- [ ] [[01_Theory/07_Concurrency/Context|Context]]
+- [ ] [[01_Theory/07_Concurrency/Select|Select]]
+- [ ] [[01_Theory/07_Concurrency/Mutex|Mutex]]
+- [ ] [[01_Theory/07_Concurrency/Data_Race|Data race]]
 
 ## 3. Backend
 
-- [ ] [[HTTP Server]]
-- [ ] [[REST API]]
-- [ ] [[Middleware]]
-- [ ] [[JSON Handling]]
-- [ ] [[Request Validation]]
-- [ ] [[Authentication and JWT]]
+- [ ] [[01_Theory/05_HTTP_Backend/02_API_Practices/HTTP Server|HTTP Server]]
+- [ ] [[01_Theory/05_HTTP_Backend/02_API_Practices/REST API|REST API]]
+- [ ] [[01_Theory/05_HTTP_Backend/02_API_Practices/Middleware|Middleware]]
+- [ ] [[01_Theory/05_HTTP_Backend/02_API_Practices/JSON Handling|JSON Handling]]
+- [ ] [[01_Theory/05_HTTP_Backend/02_API_Practices/Request Validation|Request Validation]]
+- [ ] [[01_Theory/05_HTTP_Backend/02_API_Practices/Authentication and JWT|Authentication and JWT]]
 
 ## 4. Database
 
-- [ ] [[PostgreSQL]]
-- [ ] [[SQL Basics]]
-- [ ] [[Transactions]]
-- [ ] [[Migrations]]
-- [ ] [[Repository Pattern]]
+- [ ] [[01_Theory/99_Aliases/06_Database/PostgreSQL|PostgreSQL]]
+- [ ] [[01_Theory/99_Aliases/06_Database/SQL Basics|SQL Basics]]
+- [ ] [[01_Theory/99_Aliases/06_Database/Transactions|Transactions]]
+- [ ] [[01_Theory/99_Aliases/06_Database/Migrations|Migrations]]
+- [ ] [[01_Theory/99_Aliases/06_Database/Repository Pattern|Repository Pattern]]
 
 ## 5. Architecture
 
-- [ ] [[Layered Architecture]]
-- [ ] [[Clean Architecture]]
-- [ ] [[Dependency Injection]]
-- [ ] [[DTO]]
+- [ ] [[01_Theory/08_Architecture/Layered Architecture|Layered Architecture]]
+- [ ] [[01_Theory/08_Architecture/Clean Architecture|Clean Architecture]]
+- [ ] [[01_Theory/08_Architecture/Dependency Injection|Dependency Injection]]
+- [ ] [[01_Theory/08_Architecture/DTO|DTO]]
+
+## 6. External references
+
+- [ ] [[03_Reference/Go Open Source Resources|Go Open Source Resources]]
+- [ ] Project layout: `cmd`, `internal`, `pkg`, `api`, `configs`.
+- [ ] Microservices reference: gateway, services, event bus, observability.
+- [ ] Awesome Go: поиск библиотек только после понимания задачи.
+

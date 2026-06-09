@@ -17,7 +17,7 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/002_Markdown_HTML_Converter/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/002_Markdown_HTML_Converter/00_Lab Card]]
 
 ## Теоретические заметки
 

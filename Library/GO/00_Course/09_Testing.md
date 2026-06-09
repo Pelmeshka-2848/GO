@@ -17,14 +17,14 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/009_Testing_REST_API/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/010_Testing_REST_API/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/06_Advanced_Go/Testing]]
-- [[01_Theory/06_Advanced_Go/Table_Driven_Tests]]
-- [[01_Theory/06_Advanced_Go/Benchmarks]]
-- [[01_Theory/06_Advanced_Go/HTTptest]]
+- [[01_Theory/11_Advanced_Go/Testing]]
+- [[01_Theory/11_Advanced_Go/Table_Driven_Tests]]
+- [[01_Theory/11_Advanced_Go/Benchmarks]]
+- [[01_Theory/11_Advanced_Go/HTTptest]]
 
 ## Источники
 
@@ -42,3 +42,4 @@
 ## Статус
 
 Не начато
+

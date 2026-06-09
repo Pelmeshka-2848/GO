@@ -12,6 +12,13 @@ tags:
 
 - https://go.dev/doc/
 - https://pkg.go.dev/
+- https://github.com/golang-standards/project-layout
+- https://github.com/avelino/awesome-go
+
+## Go Architecture Examples
+
+- https://github.com/JordanMarcelino/learn-go-microservices
+- [[03_Reference/Go Open Source Resources]]
 
 ## PostgreSQL
 

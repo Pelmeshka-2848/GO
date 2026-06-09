@@ -19,15 +19,15 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/004_REST_API_With_PostgreSQL/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/004_REST_API_With_PostgreSQL/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/04_Databases/PostgreSQL]]
-- [[01_Theory/04_Databases/database_sql]]
-- [[01_Theory/04_Databases/PGX]]
-- [[01_Theory/04_Databases/Transactions]]
-- [[01_Theory/04_Databases/Migrations]]
+- [[01_Theory/06_Databases/PostgreSQL]]
+- [[01_Theory/06_Databases/database_sql]]
+- [[01_Theory/06_Databases/PGX]]
+- [[01_Theory/06_Databases/Transactions]]
+- [[01_Theory/06_Databases/Migrations]]
 
 ## Источники
 
@@ -45,3 +45,4 @@
 ## Статус
 
 Не начато
+

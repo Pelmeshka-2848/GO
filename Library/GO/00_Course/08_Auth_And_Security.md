@@ -17,14 +17,14 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/008_Auth_API_With_JWT/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/008_Auth_API_With_JWT/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/08_Production/Auth]]
-- [[01_Theory/08_Production/JWT]]
-- [[01_Theory/08_Production/Password_Hashing]]
-- [[01_Theory/08_Production/Secrets]]
+- [[01_Theory/09_Production/Auth]]
+- [[01_Theory/09_Production/JWT]]
+- [[01_Theory/09_Production/Password_Hashing]]
+- [[01_Theory/09_Production/Secrets]]
 
 ## Источники
 
@@ -42,3 +42,4 @@
 ## Статус
 
 Не начато
+

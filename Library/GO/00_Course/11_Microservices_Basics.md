@@ -20,16 +20,16 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/011_Microservices_Basics/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/012_Microservices_Basics/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/07_Architecture/Monolith]]
-- [[01_Theory/07_Architecture/Microservices]]
-- [[01_Theory/07_Architecture/Message_Queues]]
-- [[01_Theory/07_Architecture/Cache]]
-- [[01_Theory/07_Architecture/Rate_Limiting]]
-- [[01_Theory/08_Production/Observability]]
+- [[01_Theory/08_Architecture/Monolith]]
+- [[01_Theory/08_Architecture/Microservices]]
+- [[01_Theory/08_Architecture/Message_Queues]]
+- [[01_Theory/08_Architecture/Cache]]
+- [[01_Theory/08_Architecture/Rate_Limiting]]
+- [[01_Theory/09_Production/Observability]]
 
 ## Источники
 
@@ -47,3 +47,4 @@
 ## Статус
 
 Не начато
+

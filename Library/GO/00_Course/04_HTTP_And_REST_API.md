@@ -19,16 +19,16 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/003_REST_API_Todo_Service/00_Lab Card]]
+- [[02_Practice/01_Labs/02_TaskFlow_Backend_Track/003_REST_API_Todo_Service/00_Lab Card]]
 
 ## Теоретические заметки
 
-- [[01_Theory/03_Backend/HTTP_Server]]
-- [[01_Theory/03_Backend/Handlers]]
-- [[01_Theory/03_Backend/REST_API]]
-- [[01_Theory/03_Backend/JSON_API]]
-- [[01_Theory/03_Backend/Middleware]]
-- [[01_Theory/03_Backend/HTTP_Status_Codes]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/HTTP_Server]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/Handlers]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/REST_API]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/JSON_API]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/Middleware]]
+- [[01_Theory/05_HTTP_Backend/01_HTTP_Fundamentals/HTTP_Status_Codes]]
 
 ## Источники
 
@@ -46,3 +46,4 @@
 ## Статус
 
 Не начато
+

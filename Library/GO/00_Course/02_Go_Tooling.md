@@ -19,7 +19,7 @@
 
 ## Основная практика
 
-- [[02_Practice/01_Labs/001_Go_Modules_And_Project_Structure/00_Lab Card]]
+- [[02_Practice/01_Labs/00_Foundation/001_Go_Modules_And_Project_Structure/00_Lab Card]]
 
 ## Теоретические заметки
 

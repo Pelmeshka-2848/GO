@@ -1,17 +1,7 @@
----
-type: index
-area: practice
-status: active
-tags:
-  - area/practice
----
-
 # Code Recipes Index
 
-- [[Recipe - Basic HTTP Handler]]
-- [[Recipe - JSON Response]]
-- [[Recipe - Middleware]]
-- [[Recipe - PostgreSQL Connection]]
-- [[Recipe - Repository Example]]
-- [[Recipe - Graceful Shutdown]]
-- [[Recipe - Request Validation]]
+Старое имя индекса кодовых рецептов.
+
+Канонический файл: [[02_Practice/04_Code_Recipes/00_Code_Recipes_Index]].
+
+Новые ссылки лучше вести на канонический индекс.

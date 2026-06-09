@@ -10,7 +10,8 @@
 
 ```text
 GO/
-├── Library/      # Obsidian-хранилище с заметками
+├── Library/
+│   └── GO/       # Obsidian-хранилище с заметками
 ├── Projects/     # Go-проекты и лабораторные работы
 ├── README.md
 ├── .gitignore
