@@ -2,6 +2,7 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+!/AGENTS.md
 
 !/Library/
 !/Library/**
@@ -12,7 +13,6 @@
 /Land/
 /Tools/
 /jetbra/
-/GO-benzcie/
 
 Library/**/.obsidian/workspace*.json
 Library/**/.obsidian/cache/
